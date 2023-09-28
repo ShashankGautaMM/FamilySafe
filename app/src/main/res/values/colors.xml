@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pinkCardColor">#F5B7B1</color>
+    <color name="greenCardColor">#D1F2EB</color>
+    <color name="pinkCardText">#78281F</color>
+    <color name="top_bar">#F8F9F9</color>
+    <color name="background_color">#F8F9F9</color>
+    <color name="grey">#F8F9F9</color>
+    <color name="cyan">#009688</color>
+    <color name="cyan1">#546E7A</color>
+</resources>
